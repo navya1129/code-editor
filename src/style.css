@@ -1,0 +1,17 @@
+body{
+ display:flex;
+ height:100vh;
+ margin:0;
+}
+
+#editor{
+ width:70%;
+ height:100%;
+ font-family:monospace;
+}
+
+#log{
+ width:30%;
+ overflow:auto;
+ border-left:2px solid black;
+}
