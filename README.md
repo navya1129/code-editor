@@ -73,8 +73,8 @@ code-editor/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone Repository
-git clone <https://github.com/Deepthichittajallu/code-repository.git>
-cd code-editor-project
+git clone https://github.com/navya1129/code-editor.git
+cd code-editor
 
 
 ### 2️⃣ Run Using Docker
@@ -113,6 +113,6 @@ Returns the number of times the debounced highlight logic executed.
 ---
 
 ## 👩‍💻 Author
-Deepthi Chittajallu  
-B.Tech Computer Science & Engineering
+Rayi Navya
+B.Tech Information Technology
 
